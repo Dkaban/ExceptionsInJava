@@ -1,8 +1,7 @@
 //***********************************************************
 //  UniqueTitleChecker.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 3 Assignment 3 Question 2
+//  Dustin Kaban
 //  July 27th, 2020
 //
 //  This class reads inputted book titles from a file and writes
