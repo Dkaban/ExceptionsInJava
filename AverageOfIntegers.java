@@ -1,8 +1,7 @@
 //***********************************************************
 //  AverageOfIntegers.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 3 Assignment 3 Question 1
+//  Dustin Kaban 
 //  July 27th, 2020
 //
 //  This class reads a series of 10 integers from the user and prints
